@@ -1,4 +1,4 @@
-package pe.joedayz.ws.core;
+package pe.joedayz.ws.core.events;
 
 /**
  * @author josediaz
